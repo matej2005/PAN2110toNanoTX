@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Antenna") (type "KiCad") (uri "/home/matej/Projects/PAN2110toNanoTX") (options "") (descr ""))
+)
